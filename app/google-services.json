@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352862840207",
+    "firebase_url": "https://vigourmortaltest.firebaseio.com",
+    "project_id": "vigourmortaltest",
+    "storage_bucket": "vigourmortaltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352862840207:android:8a1418f3cbde27f12a17fa",
+        "android_client_info": {
+          "package_name": "com.example.vigourmortaltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352862840207-dfkjf6eqougfcn15fkdc0euu7thn84hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vigourmortaltest",
+            "certificate_hash": "b820b6fe5690e268e852e96b638d33f7e472dcc3"
+          }
+        },
+        {
+          "client_id": "352862840207-hfojisv4th8riq64eafkleqhtv5h9bjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdhRUcAgXfmgj1WoBxxLaRK08jmaf4J5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352862840207-hfojisv4th8riq64eafkleqhtv5h9bjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

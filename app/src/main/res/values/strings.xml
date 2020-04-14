@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">VigourMortalTest</string>
+
+    <array name="blood">
+        <item>A+ (A Positive)</item>
+        <item>A- (A Negatvive)</item>
+        <item>B+(B Positive)</item>
+        <item>B- (B Negatvive)</item>
+        <item>AB+(AB Positive)</item>
+        <item>AB- (AB Negatvive)</item>
+        <item>O+ (O Positive)</item>
+        <item>O- (O Negatvive)</item>
+    </array>
+
+    <array name="Depart">
+        <item>AudioLogy</item>
+        <item>Anethesiology</item>
+        <item>Cardiology</item>
+        <item>Dental</item>
+        <item>ENT</item>
+        <item>Neurology</item>
+    </array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
